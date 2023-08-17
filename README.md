@@ -4,7 +4,7 @@
     Springboot Application
     Install Maven
 # Clone code using below command
-    git clone https://github.com/Naresh240/springboot-webapplication.git
+    git clone https://github.com/shrinivaskatti5/springboot-webapplication.git
     cd springboot-webapplication
 # Build Artifact
     mvn clean install
